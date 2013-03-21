@@ -1,7 +1,7 @@
 {
   "name": "nbt.js",
   "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
+  "description": "A node.js module to convert JavaScript objects to/from the NBT-format of Minecraft",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
