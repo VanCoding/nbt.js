@@ -14,6 +14,9 @@
     "minecraft",
     "nbt"
   ],
+  "dependencies": {
+    "node-int64":"*"
+  }
   "author": "Patrik Stutz",
   "license": "GPL"
 }
